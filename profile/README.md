@@ -19,6 +19,6 @@
 | [nexus-backend](https://github.com/SMART-DATING/nexus-backend) | Java 21 / Spring Boot, REST API, PostgreSQL / H2, RuBERT-tiny2 |
 | [nexus-docs](https://github.com/SMART-DATING/nexus-docs) | Продукт, архитектура, запуск и план развития |
 
-Текущая разработка — в `feature/working-prototype`. [Запуск](https://github.com/SMART-DATING/nexus-docs/blob/feature/working-prototype/RUNBOOK.md), [архитектура](https://github.com/SMART-DATING/nexus-docs/blob/feature/working-prototype/architecture/system-architecture.md), [roadmap](https://github.com/SMART-DATING/nexus-docs/blob/feature/working-prototype/roadmap.md).
+Рабочий прототип находится в `main` всех трёх репозиториев. Новые изменения оформляются отдельными ветками и Pull Request. [Запуск](https://github.com/SMART-DATING/nexus-docs/blob/main/RUNBOOK.md), [архитектура](https://github.com/SMART-DATING/nexus-docs/blob/main/architecture/system-architecture.md), [roadmap](https://github.com/SMART-DATING/nexus-docs/blob/main/roadmap.md).
 
 Приложение находится в разработке. Для публичного запуска запланированы модерация, восстановление доступа, управление удалением данных и эксплуатационная инфраструктура. Telegram Mini App и бот рассматриваются как дополнительный канал; интеграция пока не реализована.
